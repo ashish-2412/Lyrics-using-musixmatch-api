@@ -28,4 +28,5 @@ pip install requests
 1. EXAMPLE: Search for the lyrics of a song
 0. Exit
 
-
+NOTE: Only the first few lines of the lyrics will be returned as we have to pay money for the premium version which will return the full lyircs. As it was just a fun project i haven't paid.
+However, if you have paid for it you would get the full lyrics if you use your API key.
